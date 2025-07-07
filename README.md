@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://raw.githubusercontent.com/michaelhall/michaelhall/output/github-contribution-grid-snake.svg" /> -->
 
-
+<!-- 
 <svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Smooth Snake Animation">
   <g fill="#4CAF50" stroke="#388E3C" stroke-width="2">
     <!-- Head -->
@@ -42,4 +42,4 @@ Here are some ideas to get you started:
       <animate attributeName="cy" values="30;24;36;30" dur="1.5s" repeatCount="indefinite" begin="0.6s" />
     </circle>
   </g>
-</svg>
+</svg> -->
