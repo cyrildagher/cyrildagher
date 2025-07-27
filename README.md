@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Cyril Dagher</h1>
 <h3 align="center">SIDEQUESTS PRO, Website : ugnkrey.vercel.app</h3>
 <img align="right" alt="Coding" width="400" src ="https://miro.medium.com/v2/resize:fit:1400/1*PX9PsKDIL5QMHGlEf-jmoA.gif">
